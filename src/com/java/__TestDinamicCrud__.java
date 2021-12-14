@@ -14,8 +14,8 @@ public class __TestDinamicCrud__ {
 		ProductDAO dao = new ProductDAOImpl();
 		
 		//Product product = new Product();
-		//product.setPName("Placa de Video NVIDIA RTX 3090");
-		//product.setPValue(17582.99);
+		//product.setPName("Placa de Video AMD RX 6700 XT");
+		//product.setPValue(8599.99);
 		//Calendar calendar = new GregorianCalendar(2025, 01, 13);
 		//product.setPValidity(calendar);
 		
