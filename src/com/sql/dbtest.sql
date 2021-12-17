@@ -1,3 +1,7 @@
+CREATE DATABASE dbtest;
+
+USE dbtest;
+
 CREATE TABLE `t_produto` (
   `CD_PRODUTO` int NOT NULL AUTO_INCREMENT,
   `NM_PRODUTO` varchar(60) NOT NULL,
